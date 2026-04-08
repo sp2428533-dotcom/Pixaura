@@ -1,0 +1,17 @@
+{
+  "name": "Pixaura Lite",
+  "short_name": "Pixaura",
+  "description": "A clean, fast, and stable aesthetic gallery app.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfbf7",
+  "theme_color": "#fdfbf7",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

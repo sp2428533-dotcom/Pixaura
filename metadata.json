@@ -1,0 +1,5 @@
+{
+  "name": "Pixaura Lite",
+  "description": "A clean, fast, and stable aesthetic gallery app with local storage.",
+  "requestFramePermissions": ["camera"]
+}
